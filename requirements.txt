@@ -1,0 +1,13 @@
+pandas==2.2.2
+
+#SQLAlchemy é o kit de ferramentas Python SQL e Object Relational Mapper.
+sqlalchemy==2.0.31
+
+# Psycopg é o adaptador de banco de dados PostgreSQL
+psycopg2-binary==2.9.9
+
+# biblioteca para baixar dados do mercado de financas do yahoo
+yfinance==0.2.41
+
+# Python-dotenv lê pares de chave-valor de um .env
+load_dotenv==0.1.0
